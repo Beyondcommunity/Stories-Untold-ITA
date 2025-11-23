@@ -1,4 +1,5 @@
 # 🇮🇹 Traduzione Italiana di *Stories Untold*
+<img width="1500" height="315" alt="Screenshot 2025-11-23 072654" src="https://github.com/user-attachments/assets/c49d6e28-7710-4e14-944a-08cdc11a31da" />
 
 Benvenuto nel repository ufficiale della traduzione italiana fan‑made di
 **Stories Untold**, realizzata e mantenuta da **beyondcommunity**.
@@ -55,12 +56,10 @@ Il repository contiene:
 
 3.  All'interno troverai la cartella con i file tradotti.\
 
-4.  Vai nella tua copia del gioco
+4.  Vai nella tua copia del gioco SteamLibrary/steamapps/common/Stories Untold/Stories Untold_Data/
 <img width="1902" height="1028" alt="Screenshot 2025-11-23 065642" src="https://github.com/user-attachments/assets/ce1f27b1-3fc5-4e93-b0af-a5c083a99b30"/>
  e fai incolla 
 <img width="1902" height="1013" alt="Screenshot 2025-11-23 065729" src="https://github.com/user-attachments/assets/28b25541-fb63-4c29-92e0-b2dbb2b1de57" />
-
-    SteamLibrary/steamapps/common/Stories Untold/Stories Untold_Data/
 
 5.  Copia **tutti i file** tradotti sovrascrivendo quelli originali:
     -   `StreamingAssets`
