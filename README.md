@@ -28,15 +28,15 @@ Il repository contiene:
 1.  Scarica la release dalla sezione **Releases 1**.\
 
 <img width="1582" height="908" alt="Screenshot 2025-11-23 064832" src="https://github.com/user-attachments/assets/5299756e-1b3d-4538-8d6b-3678100ac584"/>
-<img width="832" height="716" alt="Screenshot 2025-11-23 065445" src="https://github.com/user-attachments/assets/617c643e-174c-4ca5-b2bc-86a8b505c84b"/>
 
 2.  estrai i file in una cartella del desktop e All'interno troverai la cartella con i file tradotti.\
+<img width="832" height="716" alt="Screenshot 2025-11-23 065445" src="https://github.com/user-attachments/assets/617c643e-174c-4ca5-b2bc-86a8b505c84b"/>
 <img width="831" height="574" alt="Screenshot 2025-11-23 065134" src="https://github.com/user-attachments/assets/185e5a73-629a-49f7-b88e-1c62a8c4cfb2" />
 
-3.  Vai nella tua copia del gioco:SteamLibrary/steamapps/common/Stories Untold/Stories Untold_Data/
+4.  Vai nella tua copia del gioco:SteamLibrary/steamapps/common/Stories Untold/Stories Untold_Data/
 <img width="1902" height="1028" alt="Screenshot 2025-11-23 065642" src="https://github.com/user-attachments/assets/d7fca34e-0651-41ec-b8b9-ee15beac0a5b" />
 
-4.  Copia **tutti i file** tradotti sovrascrivendo quelli originali:
+5.  Copia **tutti i file** tradotti sovrascrivendo quelli originali:
     -   `StreamingAssets`
     -   `levelX`
     -   `sharedassetsX.assets`
