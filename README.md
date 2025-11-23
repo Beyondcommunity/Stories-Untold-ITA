@@ -68,13 +68,12 @@ Il repository contiene:
   
 ------------------------------------------------------------------------
 
-## 📜 Licenza
-
-Questo progetto è distribuito sotto licenza **Creative Commons CC BY‑NC
-4.0**.\
-È vietato qualsiasi uso commerciale.
-
-Consulta il file `LICENSE.txt` per i dettagli completi.
+## 📜 SCREENSHOT
+<img width="1597" height="899" alt="Screenshot 2025-11-23 155555" src="https://github.com/user-attachments/assets/1fabdaa0-0a92-46f5-b550-02d4de551022" />
+<img width="1593" height="892" alt="Screenshot 2025-11-23 155714" src="https://github.com/user-attachments/assets/69119ec6-94b0-4d76-afdb-5939970b525f" />
+<img width="1598" height="899" alt="Screenshot 2025-11-23 155753" src="https://github.com/user-attachments/assets/beb19bd7-5a00-42ca-aae1-7b66ce440e9e" />
+<img width="1596" height="898" alt="Screenshot 2025-11-23 155941" src="https://github.com/user-attachments/assets/dce1bb78-bbf0-40e5-b397-5de3aaca4fff" />
+<img width="1593" height="897" alt="Screenshot 2025-11-23 160058" src="https://github.com/user-attachments/assets/eab56b7a-c7d5-4c38-af63-dc6d9dcc9922" />
 
 ------------------------------------------------------------------------
 
