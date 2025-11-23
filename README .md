@@ -43,7 +43,7 @@ Il repository contiene:
 <img width="1902" height="1013" alt="Screenshot 2025-11-23 065729" src="https://github.com/user-attachments/assets/4783720d-546e-4835-b0da-357e759d2354"/>
 
 
-### **Metodo 2 --- multi‑parte
+### **Metodo 2 --- File separati (manuale)**
 
 1. Scaricate tutte e tre i file zip. "part1 -part2 -part3" da Github
 <img width="1016" height="549" alt="Screenshot 2025-11-23 070433" src="https://github.com/user-attachments/assets/f427a5cd-17fe-41b6-a221-1046bea3f9f1"/>
@@ -55,7 +55,7 @@ Il repository contiene:
 
 3.  All'interno troverai la cartella con i file tradotti.\
 
-4.  Vai nella tua copia del gioco:
+4.  Vai nella tua copia del gioco: e fai incolla 
 <img width="1902" height="1028" alt="Screenshot 2025-11-23 065642" src="https://github.com/user-attachments/assets/ce1f27b1-3fc5-4e93-b0af-a5c083a99b30"/>
 
 
@@ -66,29 +66,6 @@ Il repository contiene:
     -   `levelX`
     -   `sharedassetsX.assets`
   
-------------------------------------------------------------------------
-
-### **Metodo 2 --- File separati (manuale)**
-Scarica tutti e 3 i file zip "part1 part2 e part3 da githbub
-<img width="1016" height="549" alt="Screenshot 2025-11-23 070433" src="https://github.com/user-attachments/assets/a4444813-abc8-47ec-953e-c57c5b799754" />
-
-2.  Crea una cartella sul desktop e metti al suo interno tutti i file zip scaricati. ed Estrai i file.
-
-<img width="684" height="811" alt="Screenshot 2025-11-23 070219" src="https://github.com/user-attachments/assets/a1f16976-0011-4d2e-a032-43881037e7d6" />
-
-4.  Copia i file estratti dentro
-
-<img width="1902" height="1028" alt="Screenshot 2025-11-23 065642" src="https://github.com/user-attachments/assets/f14e97a0-25ac-4d30-800f-f43f9bbfba2d" />
-su
-    <img width="1902" height="1013" alt="Screenshot 2025-11-23 065729" src="https://github.com/user-attachments/assets/85e0c016-f3a6-403e-b579-d280228c6281" />
-
-```{=html}
-<!-- -->
-```
-    SteamLibrary/steamapps/common/Stories Untold/Stories Untold_Data/
-
-
-
 ------------------------------------------------------------------------
 
 ## 📜 Licenza
