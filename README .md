@@ -14,7 +14,8 @@ Il repository contiene:
 
 -   Cartella `StreamingAssets` tradotta\
 -   File `sharedassets` modificati\
--   File divisi `.7z.001`, `.7z.002`, `.7z.003` (solo nella release)\
+-   File divisi `.7z.001`, `.7z.002`, `.7z.003`
+-   File Unico su ( release 1)
 -   Documentazione: `README.md` e `LICENSE.txt`
 
 ------------------------------------------------------------------------
@@ -23,7 +24,30 @@ Il repository contiene:
 
 ### **Metodo 1 --- File COMPLETO (.zip / .7z multi‑parte)**
 
-1.  Scarica la release dalla sezione **Releases**.\
+1.  Scarica la release dalla sezione **Releases 1**.\
+
+<img width="1582" height="908" alt="Screenshot 2025-11-23 064832" src="https://github.com/user-attachments/assets/5299756e-1b3d-4538-8d6b-3678100ac584" />
+2.  estrai i file in una cartella del desktop e All'interno troverai la cartella con i file tradotti.\
+<img width="836" height="829" alt="Screenshot 2025-11-23 065057" src="https://github.com/user-attachments/assets/2a2e9596-a730-4f60-970a-e7d0e0bd2f3d" />
+<img width="831" height="574" alt="Screenshot 2025-11-23 065134" src="https://github.com/user-attachments/assets/185e5a73-629a-49f7-b88e-1c62a8c4cfb2" />
+
+4.  Vai nella tua copia del gioco:
+
+    SteamLibrary/steamapps/common/Stories Untold/Stories Untold_Data/
+
+5.  Copia **tutti i file** tradotti sovrascrivendo quelli originali:
+    -   `StreamingAssets`
+    -   `levelX`
+    -   `sharedassetsX.assets`
+    -   eventuali altri file inclusi nella release
+
+
+
+
+
+
+
+
 2.  Se hai scaricato la versione multi‑parte, estrai **solo** il file
     `*.7z.001` (gli altri verranno letti automaticamente).\
 3.  All'interno troverai la cartella con i file tradotti.\
