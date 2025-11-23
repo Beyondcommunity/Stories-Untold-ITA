@@ -58,9 +58,7 @@ Il repository contiene:
 4.  Vai nella tua copia del gioco:
 <img width="1902" height="1028" alt="Screenshot 2025-11-23 065642" src="https://github.com/user-attachments/assets/ce1f27b1-3fc5-4e93-b0af-a5c083a99b30"/>
 
-```{=html}
-<!-- -->
-```
+
     SteamLibrary/steamapps/common/Stories Untold/Stories Untold_Data/
 
 5.  Copia **tutti i file** tradotti sovrascrivendo quelli originali:
@@ -71,17 +69,25 @@ Il repository contiene:
 ------------------------------------------------------------------------
 
 ### **Metodo 2 --- File separati (manuale)**
+Scarica tutti e 3 i file zip "part1 part2 e part3 da githbub
+<img width="1016" height="549" alt="Screenshot 2025-11-23 070433" src="https://github.com/user-attachments/assets/a4444813-abc8-47ec-953e-c57c5b799754" />
 
+2.  Crea una cartella sul desktop e metti al suo interno tutti i file zip scaricati. ed Estrai i file.
 
-2.  Crea una cartella sul desktop e metti al suo interno tutti i file
-    scaricati.\
-3.  Estrai i file.\
-4.  Copia i file estratti dentro:
+<img width="684" height="811" alt="Screenshot 2025-11-23 070219" src="https://github.com/user-attachments/assets/a1f16976-0011-4d2e-a032-43881037e7d6" />
+
+4.  Copia i file estratti dentro
+
+<img width="1902" height="1028" alt="Screenshot 2025-11-23 065642" src="https://github.com/user-attachments/assets/f14e97a0-25ac-4d30-800f-f43f9bbfba2d" />
+su
+    <img width="1902" height="1013" alt="Screenshot 2025-11-23 065729" src="https://github.com/user-attachments/assets/85e0c016-f3a6-403e-b579-d280228c6281" />
 
 ```{=html}
 <!-- -->
 ```
     SteamLibrary/steamapps/common/Stories Untold/Stories Untold_Data/
+
+
 
 ------------------------------------------------------------------------
 
