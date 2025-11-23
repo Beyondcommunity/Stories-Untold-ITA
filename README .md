@@ -40,12 +40,13 @@ Il repository contiene:
     -   `levelX`
     -   `sharedassetsX.assets`
     -   eventuali altri file inclusi nella release
-<img width="1902" height="1013" alt="Screenshot 2025-11-23 065729" src="https://github.com/user-attachments/assets/4783720d-546e-4835-b0da-357e759d2354" />
+<img width="1902" height="1013" alt="Screenshot 2025-11-23 065729" src="https://github.com/user-attachments/assets/4783720d-546e-4835-b0da-357e759d2354"/>
 
 
+### **Metodo 2 --- multi‑parte
 
-1 versione multi‑parte,scaricali tutte e tre "part1 -part2 -part3" 
-copia quei 3 file zip o winrar su una cartella nel destkop e poi vai **solo** sul file
+1. Scaricate tutte e tre i file zip. "part1 -part2 -part3" 
+copia quei 3 file zip o winrar su una cartella nel destkop,entrate nella cartella e poi vai **solo** sul file
     `*.7z.001` (gli altri verranno estratti automaticamente).\ e fai "estrai qui"
 <img width="1016" height="549" alt="Screenshot 2025-11-23 070433" src="https://github.com/user-attachments/assets/f427a5cd-17fe-41b6-a221-1046bea3f9f1"/>
 <img width="684" height="811" alt="Screenshot 2025-11-23 070219" src="https://github.com/user-attachments/assets/4975a9a0-96bf-4a6b-bfce-2a122d01d076" />
