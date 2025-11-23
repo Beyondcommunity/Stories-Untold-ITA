@@ -47,9 +47,10 @@ Il repository contiene:
 
 1. Scaricate tutte e tre i file zip. "part1 -part2 -part3" da Github
 <img width="1016" height="549" alt="Screenshot 2025-11-23 070433" src="https://github.com/user-attachments/assets/f427a5cd-17fe-41b6-a221-1046bea3f9f1"/>
-C
+
 2. Copia quei 3 file zip o winrar su una cartella nel destkop, entrate nella cartella e poi vai **solo** sul file
     `*.7z.001` (gli altri verranno estratti automaticamente).\ e fai "estrai qui"
+
 <img width="684" height="811" alt="Screenshot 2025-11-23 070219" src="https://github.com/user-attachments/assets/4975a9a0-96bf-4a6b-bfce-2a122d01d076" />
 
 3.  All'interno troverai la cartella con i file tradotti.\
