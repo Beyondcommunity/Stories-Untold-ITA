@@ -32,25 +32,23 @@ Il repository contiene:
 2.  estrai i file in una cartella del desktop e All'interno troverai la cartella con i file tradotti.\
 <img width="831" height="574" alt="Screenshot 2025-11-23 065134" src="https://github.com/user-attachments/assets/185e5a73-629a-49f7-b88e-1c62a8c4cfb2" />
 
-4.  Vai nella tua copia del gioco:
+3.  Vai nella tua copia del gioco:SteamLibrary/steamapps/common/Stories Untold/Stories Untold_Data/
+<img width="1902" height="1028" alt="Screenshot 2025-11-23 065642" src="https://github.com/user-attachments/assets/d7fca34e-0651-41ec-b8b9-ee15beac0a5b" />
 
-    SteamLibrary/steamapps/common/Stories Untold/Stories Untold_Data/
-
-5.  Copia **tutti i file** tradotti sovrascrivendo quelli originali:
+4.  Copia **tutti i file** tradotti sovrascrivendo quelli originali:
     -   `StreamingAssets`
     -   `levelX`
     -   `sharedassetsX.assets`
     -   eventuali altri file inclusi nella release
+<img width="1902" height="1013" alt="Screenshot 2025-11-23 065729" src="https://github.com/user-attachments/assets/4783720d-546e-4835-b0da-357e759d2354" />
 
 
 
+1.  Se hai scaricato la versione multi‑parte,scaricali tutte e tre "part1 -part2 -part3" 
+copia quei 3 file zip o winrar su una cartella nel destkop e poi vai **solo** sul file
+    `*.7z.001` (gli altri verranno estratti automaticamente).\ e fai "estrai qui"
+    <img width="684" height="811" alt="Screenshot 2025-11-23 070219" src="https://github.com/user-attachments/assets/4975a9a0-96bf-4a6b-bfce-2a122d01d076" />
 
-
-
-
-
-2.  Se hai scaricato la versione multi‑parte, estrai **solo** il file
-    `*.7z.001` (gli altri verranno letti automaticamente).\
 3.  All'interno troverai la cartella con i file tradotti.\
 4.  Vai nella tua copia del gioco:
 
