@@ -16,7 +16,7 @@ Il repository contiene:
 -   Cartella `StreamingAssets` tradotta\
 -   File `sharedassets` modificati\
 -   File divisi `.7z.001`, `.7z.002`, `.7z.003`
--   File Unico su ( release 1)
+-   File Unico su ( released 1)
 -   Documentazione: `README.md` e `LICENSE.txt`
 
 ------------------------------------------------------------------------
