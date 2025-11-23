@@ -45,13 +45,15 @@ Il repository contiene:
 
 ### **Metodo 2 --- multi‑parte
 
-1. Scaricate tutte e tre i file zip. "part1 -part2 -part3" 
-copia quei 3 file zip o winrar su una cartella nel destkop,entrate nella cartella e poi vai **solo** sul file
-    `*.7z.001` (gli altri verranno estratti automaticamente).\ e fai "estrai qui"
+1. Scaricate tutte e tre i file zip. "part1 -part2 -part3" da Github
 <img width="1016" height="549" alt="Screenshot 2025-11-23 070433" src="https://github.com/user-attachments/assets/f427a5cd-17fe-41b6-a221-1046bea3f9f1"/>
+C
+2. Copia quei 3 file zip o winrar su una cartella nel destkop, entrate nella cartella e poi vai **solo** sul file
+    `*.7z.001` (gli altri verranno estratti automaticamente).\ e fai "estrai qui"
 <img width="684" height="811" alt="Screenshot 2025-11-23 070219" src="https://github.com/user-attachments/assets/4975a9a0-96bf-4a6b-bfce-2a122d01d076" />
 
 3.  All'interno troverai la cartella con i file tradotti.\
+
 4.  Vai nella tua copia del gioco:
 <img width="1902" height="1028" alt="Screenshot 2025-11-23 065642" src="https://github.com/user-attachments/assets/ce1f27b1-3fc5-4e93-b0af-a5c083a99b30" />
 
