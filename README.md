@@ -8,14 +8,12 @@ Questo progetto nasce per offrire ai giocatori un'esperienza più
 accessibile e coinvolgente, mantenendo l'atmosfera originale del gioco.
 
 ------------------------------------------------------------------------
+
+
 ### ☕️ Supporta il progetto
 Se apprezzi il mio lavoro e vuoi sostenere questa e le prossime traduzioni, puoi offrirmi un caffè!
 
 [![PayPal](https://shields.io)](https://www.paypal.com/paypalme/DavideIbba)
-
-
-
-
 
 
 
