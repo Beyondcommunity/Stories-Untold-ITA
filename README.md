@@ -11,10 +11,8 @@ accessibile e coinvolgente, mantenendo l'atmosfera originale del gioco.
 
 ### ☕️ Supporta il progetto
 Se apprezzi il mio lavoro e vuoi sostenere questa e le prossime traduzioni, puoi offrirmi un caffè!
-<a href="https://paypal.me/DavideIbba" target="_blank">
-  <kbd> <b>💰 CLICCA QUI PER DONARE SU PAYPAL</b> </kbd>
-</a>
 
+https://paypal.me/DavideIbba)
 
 
 
