@@ -13,7 +13,9 @@ accessibile e coinvolgente, mantenendo l'atmosfera originale del gioco.
 ### ☕️ Supporta il progetto
 Se apprezzi il mio lavoro e vuoi sostenere questa e le prossime traduzioni, puoi offrirmi un caffè!
 
-[![PayPal](https://shields.io)](https://www.paypal.com/paypalme/DavideIbba)
+<a href="paypal.me/DavideIbba" target="_blank">
+  <img src="https://githubusercontent.com" alt="Donate with PayPal" width="150">
+</a>
 
 
 
